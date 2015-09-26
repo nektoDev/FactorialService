@@ -17,4 +17,6 @@
 
 ЗАПУСК ПРОГРАММЫ:
 1. При наличии maven из корневой директории выполнить mvn spring-boot:run
-2. 
+ЛИБО
+2. Скачайте JAR файл по адресу: http://nektodev.github.io/files/FactorialService-0.0.1-SNAPSHOT.jar 
+и запустите командой java -jar FactorialService-0.0.1-SNAPSHOT.jar
