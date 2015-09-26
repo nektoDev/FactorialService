@@ -40,26 +40,26 @@ public class FactorialController {
     }
 
     /**
-     * Method to get results of calculating
-     * String format:
-     * taskId. N! = result &lt;br/>
-     * e.g
-     * 5. 10! = 3628800
-     * 6. 10! = 3628800
-     *
-     * Using br tag to easier see it in browser
-     *
-     * If result == null - instead of result return
-     * taskId. N! = вычисляется &lt;br/>
-     * e.g.
-     * 15. 0! = вычисляется
-     *
-     * If result == 0 - it means that it was soma errors in calculating^ so returns:
-     * taskId. N! = произошла ошибка &lt;br/>
-     * e.g.
-     * 4. -10! = произошла ошибка
-     *
-     * @return string with results
+     * Method to get results of calculating<br/>
+     * String format:<br/>
+     * taskId. N! = result &lt;br/><br/>
+     * e.g<br/>
+     * 5. 10! = 3628800<br/>
+     * 6. 10! = 3628800<br/>
+     *<br/>
+     * Using br tag to easier see it in browser<br/>
+     *<br/>
+     * If result == null - instead of result return<br/>
+     * taskId. N! = вычисляется &lt;br/><br/>
+     * e.g.<br/>
+     * 15. 0! = вычисляется<br/>
+     *<br/>
+     * If result == 0 - it means that it was soma errors in calculating^ so returns:<br/>
+     * taskId. N! = произошла ошибка &lt;br/><br/>
+     * e.g.<br/>
+     * 4. -10! = произошла ошибка<br/>
+     *<br/>
+     * @return string with results<br/>
      */
     @RequestMapping("/")
     public String result() {
