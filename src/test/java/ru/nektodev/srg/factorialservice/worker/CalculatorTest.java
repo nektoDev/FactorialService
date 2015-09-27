@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Simple tests for calculator
  *
  * @author Tsykin V.A.
- *         tsykin.vyacheslav@otr.ru
+ *         ts.slawa@gmail.com
  * @date 26.09.15
  */
 public class CalculatorTest extends TestCase {

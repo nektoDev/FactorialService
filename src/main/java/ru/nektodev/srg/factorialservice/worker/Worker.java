@@ -10,7 +10,7 @@ import java.util.concurrent.BlockingQueue;
  * Worker thread class.
  *
  * @author Tsykin V.A.
- *         tsykin.vyacheslav@otr.ru
+ *         ts.slawa@gmail.com
  * @date 26.09.15
  */
 public class Worker extends Thread {

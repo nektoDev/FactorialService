@@ -7,7 +7,7 @@ import java.util.Random;
  * Simple class to calculate
  *
  * @author Tsykin V.A.
- *         tsykin.vyacheslav@otr.ru
+ *         ts.slawa@gmail.com
  * @date 26.09.15
  */
 public class Calculator {

@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * Contains {@link #getTasks()} queue to save tasks for workers and {@link #getResult()} result list to save all tasks
  *
  * @author Tsykin V.A.
- *         tsykin.vyacheslav@otr.ru
+ *         ts.slawa@gmail.com
  * @date 26.09.15
  * @see Task
  * @see ru.nektodev.srg.factorialservice.worker.Worker

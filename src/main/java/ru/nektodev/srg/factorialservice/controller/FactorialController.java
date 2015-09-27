@@ -12,7 +12,7 @@ import java.math.BigInteger;
  * RESTful controller
  *
  * @author Tsykin V.A.
- *         tsykin.vyacheslav@otr.ru
+ *         ts.slawa@gmail.com
  * @date 26.09.15
  */
 @RestController
